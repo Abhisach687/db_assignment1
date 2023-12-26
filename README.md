@@ -1,6 +1,6 @@
 # Project Name
 
-Database Assignment 2
+Database Assignment 1
 
 ## Description
 
