@@ -3,6 +3,6 @@ CREATE TABLE Employees (
     Lastname VARCHAR(255),
     Firstname VARCHAR(255),
     Birthdate DATE,
-    Photo BYTEA,
+    Photo  VARCHAR(255),
     Notes TEXT
 );
