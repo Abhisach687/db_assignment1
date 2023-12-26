@@ -1,0 +1,1 @@
+\COPY Products FROM 'products.csv' DELIMITER ',' CSV HEADER;
